@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/verificationcode"
+    tools:context=".RegisterAndLogin.OtpActivity">
+
+    <EditText
+        android:id="@+id/verify_code_editt"
+        android:layout_width="269dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="84dp"
+        android:backgroundTint="@color/yellow"
+        android:ems="10"
+        android:hint="Enter Otp"
+        android:inputType="phone"
+        android:paddingStart="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/verifycode_bton"
+        android:layout_width="269dp"
+        android:layout_height="45dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="Verify Code"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/verify_code_editt"
+        app:layout_constraintVertical_bias="0.6" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

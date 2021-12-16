@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055488158231",
+    "project_id": "traning-3bb9b",
+    "storage_bucket": "traning-3bb9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055488158231:android:7d0705c7076c6daac5ca52",
+        "android_client_info": {
+          "package_name": "commerce.amazoncommerce.traning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055488158231-vjmauev92vj61m1opobbhk6vi23p943j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "commerce.amazoncommerce.traning",
+            "certificate_hash": "ab23cff39957dfaa13c8be3265e39052176ae9fa"
+          }
+        },
+        {
+          "client_id": "1055488158231-qdr8mg0ih8nckqhe1akhs3ai1qn1tiqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLh9N7ZseDI35JpbwdS4B3Qrm_0g0xlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055488158231-qdr8mg0ih8nckqhe1akhs3ai1qn1tiqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

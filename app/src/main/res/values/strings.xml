@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cars Locations</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Programmer Abdullah</string>
+    <string name="nav_header_subtitle">00201150629997</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_sign_out">Sign Out</string>
+
+    <string name="title_activity_maps2">Map</string>
+    <string name="menu_setting">menu_setting</string>
+
+
+    <string name="checkbok">commerce.amazoncommerce.traning.checkbok</string>
+    <string name="name">commerce.amazoncommerce.traning.name</string>
+    <string name="password">commerce.amazoncommerce.traning.password</string>
+    <string name="title_activity_map_cars">Map</string>
+
+
+</resources>

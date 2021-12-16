@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity2">
+
+    <EditText
+        android:id="@+id/et_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Source Location"
+        android:padding="12dp"
+         />
+
+    <EditText
+        android:id="@+id/et_destionation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="Enter Destionation Location"
+        android:padding="8dp"
+        android:layout_marginTop="8dp"/>
+
+
+    <Button
+        android:id="@+id/bt_track"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/purple_200"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Destionation Location"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
